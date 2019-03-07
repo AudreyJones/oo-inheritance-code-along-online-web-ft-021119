@@ -15,4 +15,5 @@ class Car
 
   def go
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  end
 end
