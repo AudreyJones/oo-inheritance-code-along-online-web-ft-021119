@@ -12,4 +12,7 @@ class Car
   def wheel_number
     @wheel_number
   end
+
+  def go
+    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
 end
